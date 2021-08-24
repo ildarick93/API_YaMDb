@@ -2,7 +2,12 @@
 Проект YaMDb собирает отзывы пользователей на произведения. Произведения делятся на категории: «Книги», «Фильмы», «Музыка».
 
 ## Стек технологий
-Python 3.9.1, Django 3.0.5, Django REST Framework, SQLite3, Simple JWT, Django Filter.
+* Python 3.9.1, 
+* Django 3.0.5, 
+* Django REST Framework, 
+* SQLite3, 
+* Simple JWT, 
+* Django Filter.
 
 ## Установка
 Создайте виртуальное окружение:
